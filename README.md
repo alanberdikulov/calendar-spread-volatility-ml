@@ -6,7 +6,7 @@ This README documents **[exploratory analysis](./milestone2.ipynb)** for pre-ear
 
 **Work in progress.** The notebook covers exploratory data analysis (EDA), data quality, preprocessing, class-balance exploration (including SMOTE), and collinearity diagnostics. **Model fitting is not finished here.**
 
-Planned next step: **fit sequence or time-aware models** — e.g. **RNNs** (LSTM/GRU) or **Temporal Fusion Transformers (TFT)** — on appropriately constructed temporal features and **time-based train/validation/test splits** (aligned with the chronological / regime checks in the notebook).
+Planned next step: **fit sequence or time-aware models** - e.g. **RNNs** (LSTM/GRU) or **Temporal Fusion Transformers (TFT)** - on appropriately constructed temporal features and **time-based train/validation/test splits** (aligned with the chronological / regime checks in the notebook).
 
 ## Contents (summary)
 
