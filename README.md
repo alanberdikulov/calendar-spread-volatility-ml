@@ -1,4 +1,4 @@
-# Options calendar spread — exploratory analysis
+# Options calendar spread - exploratory analysis
 
 This README documents **[exploratory analysis](./milestone2.ipynb)** for pre-earnings calendar-spread trades in this folder.
 
